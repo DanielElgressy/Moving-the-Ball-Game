@@ -1,3 +1,5 @@
 # basic-dom
-Create by us to let you play with the DOM.
-Play nice.
+A moving ball game, using the arrow button you 
+can control the location of the ball.
+
+Enjoy.
